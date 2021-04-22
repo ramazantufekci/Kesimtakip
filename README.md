@@ -14,3 +14,6 @@ CREATE TABLE [dbo].[Table] (
 );
 
 ```
+Önizleme
+
+![onizleme](kesimtakip.png)
